@@ -1,16 +1,17 @@
-# hello_word
+# Project Breakfast ins Flutter
 
-A new Flutter project.
+Project made in flutter for screens of a breakfast app.
+
+## Project Screenshots
+
+assets\fotos_do_projeto\photo_1.png
+
+assets/fotos_do_projeto/photo_2.png
 
 ## Getting Started
+
+need to update: flutter pub get
 
 This project is a starting point for a Flutter application.
 
 A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
