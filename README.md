@@ -4,9 +4,9 @@ Project made in flutter for screens of a breakfast app.
 
 ## Project Screenshots
 
-/assets/fotos_do_projeto/photo_1.png
+ <img src="/assets/fotos_do_projeto/photo_1.png">
 
-/assets/fotos_do_projeto/photo_2.png
+ <img src="/assets/fotos_do_projeto/photo_2.png">
 
 ## Getting Started
 
