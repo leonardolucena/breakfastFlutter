@@ -1,6 +1,7 @@
 # Project Breakfast ins Flutter
 
 Project made in flutter for screens of a breakfast app.
+inspired by this project on this channel: https://www.youtube.com/watch?v=D4nhaszNW4o&ab_channel=FlutterGuys
 
 ## Project Screenshots
 
